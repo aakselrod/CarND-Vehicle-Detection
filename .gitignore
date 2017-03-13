@@ -1,0 +1,5 @@
+#Training images
+training_images/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
