@@ -42,7 +42,7 @@ In the second cell, I adapted the functions developed in the teaching materials 
 
 In the third cell, I then explored different color spaces and different HOG parameters (`orientations`, `pixels_per_cell`, and `cells_per_block`).  I grabbed random images from each of the two classes and displayed them to get a feel for what the `skimage.hog()` output looks like.
 
-Here is an example using the `YCrCb` color space and HOG parameters of `orient=9`, `pix_per_cell=(8, 8)` and `cell_per_block=(2, 2)` using the Cb channel:
+Here is an example using the `YCrCb` color space and HOG parameters of `orient=9`, `pix_per_cell=(8, 8)` and `cell_per_block=(2, 2)` using the Y channel:
 
 ![alt text][image2]
 
